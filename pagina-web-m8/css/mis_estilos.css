@@ -1,0 +1,26 @@
+body{
+  background-image: url(../image/dark.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+
+}
+a:link, a:visited, a:active {
+    text-decoration:none;
+}
+
+nav{
+  position: fixed;
+}
+.borde{height: 50px;text-align: center;}
+.color1{font-size: 120px; padding-top: 30%; font-family: 'Cinzel Decorative', cursive; text-align: center; /*color: white;*/ font-weight: bold*/;}
+.color2{font-size: 30px;   text-align: center; color: white; font-size: 60px;}
+.color3{font-size: 15px;   text-align: center; color: black;}
+.color4{font-size: 30px;   text-align: center; color: white;}
+.color5{font-size: 30px;   text-align: center; color: white;}
+.texto{font-size: 15px;    color: white;}
+.imagen{align-items: center;}
+.slider{height: 10vh;}
+.slider_2{height: 15vh;}
+.slider_3{height: 50vh;}
